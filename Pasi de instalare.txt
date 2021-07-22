@@ -1,0 +1,11 @@
+Pentru rularea aplicatiei sunt necesari urmatorii pasi:
+1.Instalare Visual Studio Code sau Atom.
+2.Deschidere index.html, app.js, code.css.
+3.Salvare in directorul in care doriti sa lucrati.
+4.Click dreapta index.html->Reveal in File explorer->click ok
+
+Dupa deschiderea aplicatiei in pagina web apasati butonul pentru a incepe convorbirea.
+Pentru rularea aplicatiei este necesar sa rulati in Chrome.
+Apasati ok pentru a permite aplicatiei sa va utilizeze microfonul.
+Conversatie placuta!
+Va multumesc!
